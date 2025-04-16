@@ -5,7 +5,7 @@ Be minimalistic :)
 
 ## Screenshots
 
-![My DWM Setup](images/My_rice.png)
+<img src="images/My_rice.png" width="450" height="240" alt="My DWM Setup">
 
 ## Installation
 
